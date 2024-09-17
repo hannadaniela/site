@@ -1831,5 +1831,5 @@ textarea.w-select {
   display: flex !important;
 }
 .abouthidden {
-  display: none;
+  display: none !important;
 }
