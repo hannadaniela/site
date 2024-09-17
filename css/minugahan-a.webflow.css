@@ -1485,4 +1485,5 @@ p {
     grid-column-end: span 1;
   }
 }
-
+.abouthidden {
+  display: none;
