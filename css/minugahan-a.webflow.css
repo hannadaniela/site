@@ -1468,3 +1468,6 @@ p {
 .hidden-about {
   display: none !important
 }
+.hideabout {
+  display: none !important
+}
